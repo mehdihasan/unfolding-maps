@@ -1,5 +1,5 @@
-unfolding_app_template and UC San Diego/Coursera MOOC starter code
-==================================================================
+unfolding_app_template and UC San Diego/Coursera MOOC 
+======================================================
 
 This is a skeleton to use Unfolding in Eclipse as well as some starter
 code for the Object Oriented Programming in Java course offered by 
